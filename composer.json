@@ -1,0 +1,15 @@
+{
+  "name": "event15/DesignPatterns",
+  "description": "Wzorce projektowe mojego wykonania",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Marek Woś",
+      "email": "marwo12@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "5.3.x-dev",
+    "phpunit/php-code-coverage": "3.1.x-dev"
+  }
+}
